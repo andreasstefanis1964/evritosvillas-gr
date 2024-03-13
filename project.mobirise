@@ -52,8 +52,8 @@
     "imageResize": true,
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/evritos-villas.png",
-    "mbrsiteDomain": "uljtclgeh3",
-    "robotsSwitcher": false,
+    "mbrsiteDomain": "ydhzla2ll7",
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
@@ -92,7 +92,8 @@
     "pwa-switcher": true,
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "evritosvillas.comgr.html": {
