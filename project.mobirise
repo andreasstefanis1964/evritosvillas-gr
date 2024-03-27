@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "evritosvillas.comgr.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "hotelm4",
       "title": "HotelM4",
@@ -96,7 +96,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
-    "evritosvillas.comgr.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Evritos Βιλες Καρπενήσι",
